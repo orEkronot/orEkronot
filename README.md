@@ -8,7 +8,7 @@
 
 </div>
 
-### Technical Stack
+## Technical Stack
 
 <div align="center">
 
@@ -25,35 +25,7 @@
 </div>
 
 
-### GitHub Analytics
-
-<div align="center">
-
-| <img height="150em" src="https://github-readme-stats.vercel.app/api?username=orEkronot&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/> | <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orEkronot&layout=compact&langs_count=7&theme=transparent&hide_border=true"/> |
-| ------------- | ------------- |
-
-</div>
-
-### Teaching Focus
-
-```mermaid
-mindmap
-  root((Computer Science))
-    Advanced Programming
-      Modern C++
-      Memory Management
-      Design Patterns
-    Data Structures
-      Implementation
-      Analysis
-      Optimization
-    Student Development
-      Problem Solving
-      Code Quality
-      Best Practices
-```
-
----
+## 
 
  
 <div align="center">
@@ -68,7 +40,7 @@ mindmap
 
 </div>
 
----
+## 
 
 <div align="center">
 
